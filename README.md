@@ -1,2 +1,3 @@
 # wap_lode
-[View](https://jberanova.github.io/wap_lode/)
+[View](http://127.0.0.1:5500/index.html)
+
